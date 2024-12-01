@@ -2,7 +2,7 @@ import React from 'react'
 
 const Skip = () => {
   return (
-    <div>
+    <div id='skip'>
       <a href="#header">헤더 영역 바로가기</a>
       <a href="#intro">소개 영역 바로가기</a>
       <a href="#skill">스킬 영역 바로가기</a>
